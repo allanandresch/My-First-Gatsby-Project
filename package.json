@@ -13,9 +13,11 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   },
   "dependencies": {
-    "gatsby": "^2.18.6",
+    "gatsby": "^2.18.17",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "tsutils": "^3.17.1",
+    "typescript": "^3.7.4"
   },
   "devDependencies": {
     "cross-env": "^6.0.3",
