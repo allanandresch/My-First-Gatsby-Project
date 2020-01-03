@@ -1,6 +1,7 @@
 # My First Gatsby Project
  This is my first Gatsby Project
 
-Dia Dos Del Reto De Gatsby:
+Dia #1 Aprender Que es Gatsby y Cosas basicas.
 
-Aprender de GraphQL.
+
+Dia #2 Del Reto De Gatsby: Aprender de GraphQL.
