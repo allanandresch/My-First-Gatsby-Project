@@ -8,3 +8,6 @@ const Wave = () => {
 };
 
 export default Wave;
+
+
+// Wave no esta terminada, aca termine la serie de videos actualizarla lo mas rapido posible.
