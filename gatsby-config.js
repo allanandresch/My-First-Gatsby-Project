@@ -8,5 +8,14 @@ module.exports = {
     plugins: [
         'gatsby-plugin-emotion',
         'gatsby-plugin-react-helmet',
-        'prettier']
+        'prettier',
+        {
+            resolve: 'gatsby-plugin-mdx',
+            options: {
+                defaultLayouts: {
+                    default: require.resolve('./src/components/layout.js'),
+                },
+            },
+        },
+    ],
 };
