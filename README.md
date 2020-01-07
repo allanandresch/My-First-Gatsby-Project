@@ -5,3 +5,6 @@ Dia #1 Aprender Que es Gatsby y Cosas basicas.
 
 
 Dia #2 Del Reto De Gatsby: Aprender de GraphQL.
+
+
+Dia #3 Empezando con las paginas de Gatsby.
